@@ -5,6 +5,8 @@ A little switch for your mac to let you change the mac's light/dark appearance m
 
 ![Mac Appearance Switch](https://user-images.githubusercontent.com/2157285/80917372-ae1b4680-8d73-11ea-85de-5e8767e3c714.png)
 
+You can also check out [Starlight](http://codes.kary.us/health/starlight)
+
 ## Installation
 
 1. Download this repository
