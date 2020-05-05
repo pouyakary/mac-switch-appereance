@@ -19,4 +19,4 @@ You can also check out [Starlight](http://codes.kary.us/health/starlight)
 
 0. From the menu bar go the Script Editor's icon and then the `Open Scripts Folder` and then the `Open User Scripts Folder`<br><br>![](https://user-images.githubusercontent.com/2157285/80917175-824b9100-8d72-11ea-867d-54c95a8889a0.png)
 
-0. Copy the `Switch Appearance Mode.scpt` file from the repo to the user scripts folder
+0. Copy the `Switch Appearance Mode ✨.scpt` file from the repo to the user scripts folder
